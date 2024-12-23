@@ -1,6 +1,10 @@
 # learn_english
 The footprints of my English learning.
 
+# 为什么学英语
+英语+任何一项技能 都会让你在职场取得非常大的优势。
+比如：英语+编程，英语+销售，英语+会计...
+
 # 学习方案
 李笑来1000小时： https://1000h.org/intro.html
 
